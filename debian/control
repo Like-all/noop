@@ -2,7 +2,7 @@ Source: noop
 Section: admin  
 Priority: optional
 Maintainer: Azer Abdullaev (Like All) <like-all@yandex.com>
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper (>= 9), golang, git
 Standards-Version: 3.9.5
 Homepage: https://github.com/Like-all/noop
 
