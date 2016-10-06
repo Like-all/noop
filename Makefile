@@ -32,4 +32,4 @@ clean:
 
 install:
 	mkdir -p $(SBINDIR)
-	$(INSTALL_BIN) src/noop $(SBINDIR)/
+	$(INSTALL_BIN) src/noop/noop $(SBINDIR)/
