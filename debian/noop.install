@@ -1,1 +1,1 @@
-src/etc/noop/* /etc/noop/
+src/config/etc/noop/* /etc/noop/
