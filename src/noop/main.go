@@ -4,8 +4,8 @@ import "fmt"
 import "time"
 
 func main() {
-    config = loadConfig()
-    fmt.Println(config.Section("Noop").GetKey("EntryPoint"))
+    config, _ := loadConfig()
+    fmt.Println(config.Noop.EntryPoint)
     for {
         fmt.Println("This is noop")
         time.Sleep(5000 * time.Millisecond)
