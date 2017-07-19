@@ -1,9 +1,15 @@
-noop (0.1-8) UNRELEASED; urgency=medium
+noop (0.1-9) UNRELEASED; urgency=medium
+
+  * Added spew output
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 19 Jul 2017 02:02:12 -0700
+
+noop (0.1-8) unstable; urgency=medium
 
   * Added new default directories
   * Added some verbosity
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 19 Jul 2017 01:52:23 -0700
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 19 Jul 2017 02:02:09 -0700
 
 noop (0.1-7) unstable; urgency=medium
 
