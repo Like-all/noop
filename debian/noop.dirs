@@ -1,1 +1,4 @@
 etc/noop
+etc/noop/conf-available
+etc/noop/conf-enabled
+lib/noop/conf-vendor
